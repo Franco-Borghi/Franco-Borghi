@@ -1,7 +1,7 @@
 # Franco Julian Borghi
 #### Frontend Developer en Pro Trading Skills
 
-<br>
+</br>
 ### Acerca de mí
 Soy un apasionado por la tecnología y los avances de la ciencia. En mis años de experiencia laboral, aprendí que mantener una actitud proactiva contribuye altamente al desarrollo de nuevas habilidades y al crecimiento del sector en el que trabajo. Por esas razones, estoy constantemente en formación. El paso por el ambiente de las criptomonedas me abrió camino a la programación, donde hoy busco desarrollar mis habilidades y continuar con mi crecimiento como profesional.
 
