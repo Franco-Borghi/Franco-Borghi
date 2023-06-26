@@ -47,6 +47,6 @@ Soy un apasionado por la tecnología y los avances de la ciencia. En mis años d
 - Inglés (competencia básica)
 
 ### Contacto
-Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/franco-j-borghi) o por correo electrónico: [correo@example.com](mailto:franco_julian_borghi@hotmail.com)
+Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/franco-j-borghi/) o por correo electrónico: [correo@example.com](mailto:franco_julian_borghi@hotmail.com)
 
 ¡Gracias por visitar mi perfil!
