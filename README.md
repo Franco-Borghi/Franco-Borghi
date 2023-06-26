@@ -6,8 +6,6 @@
 ### Acerca de mí
 Soy un apasionado por la tecnología y los avances científicos.
 
-Durante mis años de experiencia laboral, he aprendido que mantener una actitud proactiva es clave para el desarrollo de habilidades y el crecimiento en mi campo. Estoy constantemente en busca de oportunidades de formación y aprendizaje.
-
 Mi trayectoria en el mundo de las criptomonedas me abrió las puertas a la programación, donde hoy busco desarrollar mis habilidades y seguir creciendo como profesional. Actualmente trabajo como Frontend Developer, creando una plataforma educativa con React, y también desempeño el rol de implementador en sitios WordPress. 
 
 Mi aspiración es continuar creciendo en el área de la programación y seguir explorando nuevas oportunidades.
