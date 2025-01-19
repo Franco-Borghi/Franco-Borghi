@@ -4,19 +4,27 @@
   
   
 ### Acerca de mí
-Soy un apasionado por la tecnología y los avances científicos.
-
-Mi trayectoria en el mundo de las criptomonedas me abrió las puertas a la programación, donde hoy busco desarrollar mis habilidades y seguir creciendo como profesional. Actualmente trabajo como Frontend Developer, creando una plataforma educativa con React, y también desempeño el rol de implementador en sitios WordPress. 
-
-Mi aspiración es continuar creciendo en el área de la programación y seguir explorando nuevas oportunidades.
+Apasionado por la tecnología y el desarrollo de software, con
+entusiasmo por aprender nuevas tecnologías y enfrentar
+desafíos que impulsen mi crecimiento profesional. Disfruto
+crear soluciones innovadoras y eficientes, manteniéndome
+siempre en constante aprendizaje.
 
 ### Experiencia
 #### Frontend Developer en Pro Trading Skills
-- Período: marzo 2022 - actualidad
+- Período: marzo 2021 - 2023
 - Ubicación: Argentina (trabajo remoto)
 - Tareas:
   - Implementación web en entorno de WordPress.
   - Desarrollo Frontend con React, React-router-dom y Redux.
+  - Integración de la plataforma con herramientas externas.
+ 
+#### Frontend Developer en Tukki
+- Período: marzo 2023 - actualidad
+- Ubicación: Argentina (trabajo remoto)
+- Tareas:
+  - Desarrollo Frontend con React, Next, React-router-dom, Redux y Typescript.
+  - Diseño responsive para pagina web.
   - Integración de la plataforma con herramientas externas.
 
 ### Educación
